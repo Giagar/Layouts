@@ -18,7 +18,6 @@ nav {
 
 .content {
   min-height: 500px;
-  display: flex;
 }
 
 main {
@@ -64,13 +63,13 @@ footer {
 
 @media screen and (max-width: 1400px) {
   .responsive {
-    width: 49.9% !important;
+    width: 49.9%;
   }
 }
 @media screen and (max-width: 600px) {
   .responsive {
-    width: 100% !important;
+    width: 100%;
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=styls.css.map */

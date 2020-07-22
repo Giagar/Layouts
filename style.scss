@@ -65,14 +65,14 @@ footer {
     border: 1px dotted lightgrey;
 }
 
-@media only screen and (max-width: 1400px) {
+@media screen and (max-width: 1400px) {
     .responsive {
-        width: 49.9%;
+        width: 49.9% !important;
     }
 } 
 
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .responsive {
-        width: 100%;
+        width: 100% !important;
     }
 }
